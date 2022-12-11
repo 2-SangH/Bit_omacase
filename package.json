@@ -1,5 +1,5 @@
 {
-	"homepage": "https://fromnowwon.github.io/bit-omacase/",
+	"homepage": "https://github.com/2-SangH/Bit_omacase",
 	"name": "bit-omacase",
 	"version": "0.1.0",
 	"private": true,
@@ -12,7 +12,6 @@
 		"@types/react": "^17.0.39",
 		"@types/react-dom": "^17.0.11",
 		"axios": "^0.25.0",
-		"gh-pages": "^3.2.3",
 		"node-sass": "^7.0.1",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
@@ -45,5 +44,8 @@
 			"last 1 firefox version",
 			"last 1 safari version"
 		]
+	},
+	"devDependencies": {
+		"gh-pages": "^4.0.0"
 	}
 }
