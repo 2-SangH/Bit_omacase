@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Bit_omacase/index.html/static/css/main.f6ba7b3a.css",
-    "main.js": "/Bit_omacase/index.html/static/js/main.dc3d39b1.js",
-    "static/js/787.20522a1f.chunk.js": "/Bit_omacase/index.html/static/js/787.20522a1f.chunk.js",
-    "static/media/ct-logo.png": "/Bit_omacase/index.html/static/media/ct-logo.c37c88ab81c5043a2f53.png",
-    "index.html": "/Bit_omacase/index.html/index.html",
-    "main.f6ba7b3a.css.map": "/Bit_omacase/index.html/static/css/main.f6ba7b3a.css.map",
-    "main.dc3d39b1.js.map": "/Bit_omacase/index.html/static/js/main.dc3d39b1.js.map",
-    "787.20522a1f.chunk.js.map": "/Bit_omacase/index.html/static/js/787.20522a1f.chunk.js.map"
+    "main.css": "/Bit_omacase/static/css/main.f6ba7b3a.css",
+    "main.js": "/Bit_omacase/static/js/main.d69415ee.js",
+    "static/js/787.20522a1f.chunk.js": "/Bit_omacase/static/js/787.20522a1f.chunk.js",
+    "static/media/ct-logo.png": "/Bit_omacase/static/media/ct-logo.c37c88ab81c5043a2f53.png",
+    "index.html": "/Bit_omacase/index.html",
+    "main.f6ba7b3a.css.map": "/Bit_omacase/static/css/main.f6ba7b3a.css.map",
+    "main.d69415ee.js.map": "/Bit_omacase/static/js/main.d69415ee.js.map",
+    "787.20522a1f.chunk.js.map": "/Bit_omacase/static/js/787.20522a1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6ba7b3a.css",
-    "static/js/main.dc3d39b1.js"
+    "static/js/main.d69415ee.js"
   ]
 }
