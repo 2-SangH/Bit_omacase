@@ -27,10 +27,10 @@ function App(): JSX.Element {
 	}
 	
 	useEffect(() => {
-		fetch("https://api.coinpaprika.com/v1/tickers?quotes=KRW")
+		fetch("https://api.coinpaprika.com/v1/tickers?quotes=KRW") //실행 시 코인 파프리카 api 호출
 		.then(response => response.json())
 		.then(json => {
-			setCoins(json.slice(0, 100));
+			setCoins(json.slice(0, 100)); //100개로 제한
 			setLoading(false);
 		})
 		.catch((error) => {
